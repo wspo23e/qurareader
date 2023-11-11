@@ -5,7 +5,7 @@ wait(2)
 end
 
 
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Prophet Muhammad said about remembering Allah:  Do not talk too much without remembrance of Allah. Indeed excessive talking without remembrance of Allah hardens the heart." ,"All")
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Prophet Muhammad said about remembering Allah: Do not talk too much without remembrance of Allah. Indeed excessive talking without remembrance of Allah hardens the heart." ,"All")
 wait(0.1)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("And indeed the furthest of people from Allah is the harsh-hearted. *At-Tirmidhi*" ,"All")
 wait(15)
